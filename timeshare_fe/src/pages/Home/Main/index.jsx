@@ -51,10 +51,10 @@ const Main = () => {
 
         setData(mergedObjects);
       } else {
-        console.log("Can't get time share");
+        console.log("Can't get timeshare");
       }
     } catch (err) {
-      console.log("Can't get time share");
+      console.log("Can't get timeshare");
     }
   };
 
@@ -122,7 +122,7 @@ const Main = () => {
                         navigate(`/timeshare-detail/${timeshareId}`);
                       }}
                     >
-                      Details
+                      Details timeshare
                     </button>
                   </div>
                 </div>
