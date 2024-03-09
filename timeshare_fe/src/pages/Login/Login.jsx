@@ -100,7 +100,7 @@ const Login = () => {
             onClick={() => handleLoginFunctionWithGoogle()}
           >
             <IoLogoGoogle />
-            SIG IN WITH GOOGLE
+            SIGN IN WITH GOOGLE
           </button>
         </div>
         <div className="dividerSocial"></div>
