@@ -129,7 +129,7 @@ const Register = () => {
       <div className="loginsForm">
         <h3>Already have an account!</h3>
         <Link to={"/login"}>
-          <button className="registerButton">SIGN IN HERE</button>
+          <button className="registerButton">SIG IN HERE</button>
         </Link>
       </div>
     </div>
