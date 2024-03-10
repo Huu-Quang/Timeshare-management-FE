@@ -217,7 +217,7 @@ function FAQsPage() {
             </dt>
             <dd>
               <p>
-                On RedWeek.com, timeshare owners post their own weeks for rent
+                On Timeshare-management, timeshare owners post their own weeks for rent
                 or sale, so we do not have any inventory other than what you see
                 posted. You can request notification when new postings are added
                 by clicking "Sign up for alerts" in the rental and resale
@@ -232,7 +232,7 @@ function FAQsPage() {
                 Just submit a "Booking Request" to start the process. If the
                 owner of the posting uses{" "}
                 <a href="/resources/faq/redweek-online-booking">
-                  RedWeek's secure online booking system
+                Timeshare-management's secure online booking system
                 </a>
                 , your Booking Request will require you agree to the contract
                 and submit your credit card for payment -- it will be confirmed

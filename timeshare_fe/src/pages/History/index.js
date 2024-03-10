@@ -92,7 +92,7 @@ const HistoryPage = () => {
           {status === 1 ? (
             <Tag color={"yellow"}>Pending</Tag>
           ) : status === 2 ? (
-            <Tag color={"green"}>Accept</Tag>
+            <Tag color={"green"}>Accept Booking</Tag>
           ) : (
             <Tag color={"volcano"}>Decline</Tag>
           )}
