@@ -177,7 +177,7 @@ function FAQsPage() {
               </p>{" "}
             </dd>
             <dt id="verified">
-              <h4>What is RedWeek Verified or Verified &amp; Protected?</h4>
+              <h4>What is Timeshare-management Verified or Verified &amp; Protected?</h4>
             </dt>
             <dd>
               <p>
@@ -189,7 +189,7 @@ function FAQsPage() {
                 also offers secure online booking. For full details, please see
                 our{" "}
                 <a href="/resources/faq/redweek-verified">
-                  full RedWeek Verified FAQ
+                  full Timeshare-management Verified FAQ
                 </a>
               </p>{" "}
             </dd>
