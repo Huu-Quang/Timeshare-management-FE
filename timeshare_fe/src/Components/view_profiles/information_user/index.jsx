@@ -57,7 +57,7 @@ function InformationUser() {
           </div>
           <div className="cardProfile">
             <p>My Email:</p>
-            <p>abcd@fpt.edu.vn</p>
+            <p>Quangabcd@fpt.edu.vn</p>
             <button className="profileActionButton sizeSM">CHANGE</button>
           </div>
         </div>
