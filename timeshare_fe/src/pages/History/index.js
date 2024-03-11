@@ -2,7 +2,7 @@ import React, { useContext, useEffect, useState } from "react";
 import { Space, Table, Tag } from "antd";
 import axios from "axios";
 import { GlobalContext } from "../../provide";
-import { formatDate } from "../../Components/helpers";
+import { formatDate } from "../../Components/helpers"; // date
 import { EyeOutlined } from "@ant-design/icons";
 import { useNavigate } from "react-router-dom";
 //api history
@@ -92,9 +92,9 @@ const HistoryPage = () => {
           {status === 1 ? (
             <Tag color={"yellow"}>Pending</Tag>
           ) : status === 2 ? (
-            <Tag color={"green"}>Accept Booking</Tag>
+            <Tag color={"green"}>Accept Booking Request</Tag>
           ) : (
-            <Tag color={"volcano"}>Decline</Tag>
+            <Tag color={"volcano"}>Decline Booking Request</Tag>
           )}
         </>
       ),
