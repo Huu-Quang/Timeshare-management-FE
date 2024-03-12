@@ -54,7 +54,7 @@ function TimeShareManagerPage() {
     } catch (err) {
       console.log(2);
 
-      console.log("Can't get time share");
+      console.log("Can't get timeshare");
     }
   };
 
