@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import CardItemTimeShare from "../../Components/CardItemTimeShare";
 import axios from "axios";
-//api
+//api manage timeshare
 function TimeShareManagerPage() {
   const [data, setData] = useState([]);
   const [reload, setReload] = useState(false);
@@ -96,7 +96,7 @@ function TimeShareManagerPage() {
             );
           })
         ) : (
-          <h3>List Timeshare Empty</h3>
+          <h3>List Timeshare </h3>
         )}
       </div>
     </>
