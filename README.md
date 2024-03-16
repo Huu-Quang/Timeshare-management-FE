@@ -7,3 +7,6 @@
  + Khi thực hiện mở bán cho phép chủ đầu tư thiết lập cách thức khách hàng được ưu tiên mua dựa vào thông tin đặt giữ chỗ (theo thời gian, quay số ngẫu nhiên, ...)
  + Dashboard & report thống kê doanh thu, dự án, ...""
 "
+Mainflow : 
+![image](https://github.com/Huu-Quang/Timeshare-management-FE/assets/157192669/4dfe33ba-65c1-466d-8337-747f0149420f)
+
